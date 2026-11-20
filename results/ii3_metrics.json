@@ -1,0 +1,10 @@
+{
+  "test_accuracy": 0.9539388020833334,
+  "macro_precision": 0.9595309595309596,
+  "macro_recall": 0.9539612819261428,
+  "macro_f1": 0.9537308359698793,
+  "svm_baseline_accuracy": 0.9000651041666666,
+  "epochs_run": 15,
+  "best_epoch": 15,
+  "n_params": 8851
+}
