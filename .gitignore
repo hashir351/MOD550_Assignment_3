@@ -1,0 +1,7 @@
+dataset/
+*.mat
+segments_cache_*.npz
+*.keras
+.venv/
+.ipynb_checkpoints/
+__pycache__/
