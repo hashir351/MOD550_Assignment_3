@@ -33,11 +33,11 @@ All CNN errors are inner-race segments predicted as healthy, concentrated at ope
 | Claude (Anthropic) | Code for Part II: loading and segmenting the recordings, recording-level 60/20/20 split, 1-D CNN, training and evaluation, RBF-SVM comparison | Kept the architecture, split and evaluation code. Changed the training setup (every 10th training segment, at most 15 epochs) because the full run was too slow on a CPU. |
 | Claude (Anthropic) | Debugging the setup and runs: Python/TensorFlow install, Jupyter kernel problem, PowerShell and git commands, notebook run settings | Used the suggested commands; ran the notebook from the terminal with nbconvert instead of the VS Code kernel picker. |
 | Claude (Anthropic) | Figures for Task II.3 and II.4: learning curves, confusion matrix, accuracy by condition, misclassified examples | Kept the generated plotting code unchanged. |
-| [Royar / Shishir: add your own entries for Part I] | [..] | [..] |
+| Royar Kurdman, Shishir Dahal | AI entries for Part I not provided at submission time | - |
 
 ## Group contributions
 - Royar Kurdman: Part I Tasks I.4 and I.5, Part II Task II.1
 - Hashir Javed: Part II Tasks II.2, II.3 and II.4
-- Shishir Dahal: [fill in the remaining tasks]
+- Shishir Dahal: Part I Tasks I.1-I.3 (group sections)
 
 Individual answers in each notebook were written by the student named in the "Individual Analysis" heading.
